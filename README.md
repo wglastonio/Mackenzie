@@ -1,2 +1,2 @@
 # Mackenzie
-Projetos desenvolvidos durante o curso de Análise e Desenvolvimento de Sistemas
+Projects developed during the course Analysis and System Development
